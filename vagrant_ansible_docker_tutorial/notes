@@ -1,3 +1,12 @@
+Vagrant
+=======
+Building image
+--------------
+http://docs.vagrantup.com/v2/virtualbox/boxes.html
+https://blog.engineyard.com/2014/building-a-vagrant-box
+https://packer.io/docs/post-processors/vagrant.html
+https://github.com/ffuenf/vagrant-boxes
+
 Docker
 ======
 
